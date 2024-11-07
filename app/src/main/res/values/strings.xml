@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">AperoTutorialSDKSample</string>
+    <string name="setting_uk" translatable="false">English</string>
+    <string name="setting_es" translatable="false">Spanish</string>
+    <string name="setting_fr" translatable="false">French</string>
+    <string name="setting_hi" translatable="false">Hindi</string>
+    <string name="setting_pt" translatable="false">Portuguese</string>
+    <string name="setting_rs" translatable="false">Russian</string>
+    <string name="title_answer_A">Title of A</string>
+    <string name="description_answer_A">Description of A</string>
+    <string name="title_answer_C">Title of C</string>
+    <string name="title_answer_B">Title of B</string>
+    <string name="description_answer_B">Description of B</string>
+    <string name="txt_choose_language">Choose Language</string>
+    <string name="txt_english" translatable="false">English</string>
+    <string name="txt_france" translatable="false">Français</string>
+    <string name="txt_main">Hello World!</string>
+    <string name="txt_loading_ads">Loading Ads…</string>
+</resources>

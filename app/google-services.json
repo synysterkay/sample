@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134222886866",
+    "project_id": "firstopenlib",
+    "storage_bucket": "firstopenlib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134222886866:android:40da61a04563e07b52ba0b",
+        "android_client_info": {
+          "package_name": "com.apero.tutorialsdk.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxpINZNSBabNZp2Qie3tYQNZsqizfYkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

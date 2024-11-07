@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AperoTutorialSDKSample</string>
+    <string name="title_answer_A">Titre de A</string>
+    <string name="description_answer_A">Description de A</string>
+    <string name="title_answer_C">Titre de C</string>
+    <string name="title_answer_B">Titre de B</string>
+    <string name="description_answer_B">Description de B</string>
+    <string name="txt_choose_language">Choisissez la langue</string>
+    <string name="txt_main">Salut tout le monde!</string>
+    <string name="txt_loading_ads">Chargement des annonces…</string>
+</resources>
